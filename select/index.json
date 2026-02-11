@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Tonight I Might",
+  "base_artist": "KATSEYE",
+  "createdAt": "2026-02-11T06:39:39.468550Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tonight I Might",
+      "artist": "KATSEYE",
+      "has_synced": true,
+      "path": "select/01_Tonight_I_Might_KATSEYE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tonight I Might",
+      "artist": "KATSEYE",
+      "has_synced": true,
+      "path": "select/02_Tonight_I_Might_KATSEYE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tonight I Might Die",
+      "artist": "Sleepy EyeZzz",
+      "has_synced": true,
+      "path": "select/03_Tonight_I_Might_Die_Sleepy_EyeZzz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tonight I Might",
+      "artist": "KATSEYE",
+      "has_synced": true,
+      "path": "select/04_Tonight_I_Might_KATSEYE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tonight I Might",
+      "artist": "KATSEYE",
+      "has_synced": false,
+      "path": "select/pl_01_Tonight_I_Might_KATSEYE.txt"
+    }
+  ]
+}
