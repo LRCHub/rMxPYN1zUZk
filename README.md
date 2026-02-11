@@ -1,0 +1,44 @@
+# KATSEYE – Tonight I Might
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.60] There's a hundred reasons why I show up late and then I don't talk
+[00:15.37] But I'm tired of focusing on all the things I don't got
+[00:42.87] 
+[00:22.83] I'm such an overthinker, a loner, the one who misses all the jokes
+[00:27.41] I'm not the number calling at four o'clock in the morning
+[00:31.48] But tonight I might do it a little different than I did before
+[00:36.05] Different than I did before
+[00:49.55] 
+[00:38.32] Do all of the shit I know I didn't do when I was a kid
+[00:43.50] Get high on life for somebody's kiss
+[00:47.66] But tonight I might (ah)
+[00:52.11] Tonight I might, tonight I might do stupid shit
+[01:15.61] 
+[00:56.08] Pretend these people they are my friends
+[00:59.42] That sing too loud and get complicated
+[01:04.06] Tonight I might
+[01:07.99] Tonight I might, tonight I might
+[01:23.99] 
+[01:11.80] I know everyone around me doesn't move the same way, mm
+[01:19.58] But it's kinda fun to be somebody different on the same day
+[01:49.08] 
+[01:27.10] I'm not the perfect example of someone ready to handle
+[01:31.23] The kinda party required to go in fully inspired by
+[01:35.92] Tonight I might do it a little different than I did before
+[01:40.02] Different than I did before
+[01:53.52] 
+[01:42.19] Do all of the shit I know I didn't do when I was a kid
+[01:47.71] Get high on life for somebody's kiss
+[01:51.65] But tonight I might (ah)
+[01:56.05] Tonight I might, tonight I might do stupid shit
+[02:19.55] 
+[01:59.96] Pretend these people they are my friends
+[02:03.36] That sing too loud and get complicated
+[02:08.08] Tonight I might
+[02:12.03] Tonight I might, tonight I might
+[02:28.03] 
+[02:19.92] Tonight I might, tonight I might
+[02:27.94] Tonight I might, tonight I might
+```
